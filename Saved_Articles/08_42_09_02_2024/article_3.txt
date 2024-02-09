@@ -1,0 +1,19 @@
+Title: Pigeons problem-solve similarly to artificial intelligence, research shows
+
+
+
+
+The intelligent birds, thought to be a nuisance by some, learn from consequences and can recognize resemblance between objects
+A new study has found that the way pigeons problem-solve matches artificial intelligence.
+Often overlooked as a nuisance, pigeons are actually highly intelligent animals that can remember faces, see the world in vivid colors, navigate complex routes, deliver news and even save lives.
+In the study, 24 pigeons were given a variety of visual tasks, some of which they learned to categorize in a matter of days, and others in a matter of weeks. The researchers found evidence that the mechanism that pigeons used to make correct choices is similar to the method that AI models use to make the right predictions.
+“Pigeon behavior suggests that nature has created an algorithm that is highly effective in learning very challenging tasks,” said Edward Wasserman, study co-author and professor of experimental psychology at the University of Iowa. “Not necessarily with the greatest speed, but with great consistency.”
+On a screen, pigeons were shown different stimuli, like lines of different width, placement and orientation, as well as sectioned and concentric rings. Each bird had to peck a button on the right or left to decide which category they belonged to. If they got it correct, they got food, in the form of a pellet; if they got it wrong, they got nothing.
+“Pigeons don’t need a rule,” said Brandon Turner, lead author of the study and professor of psychology at Ohio State University. Instead they learn through trial and error. For example, when they were given a visual, say “category A”, anything that looked close to that they also classified as “category A”, tapping into their ability to identify similarities.
+Over the course of the experiments, pigeons improved their ability to make right choices from 55% to 95% of the time when it came to some of the simpler tasks. Presented with a more complex challenge, their accuracy went up from 55% to 68%.
+“Using more humble animals like pigeons, we can test how far they can go with a mind that is [we think] solely or mostly associative,” said Onur Güntürkün, professor of behavioral neuroscience at Ruhr University Bochum who was not involved in the study. “This paper shows how incredibly strong associative systems can be, how true cognition-like they are.”
+In an AI model, the main goal is to recognize patterns and make decisions. Pigeons, as research shows, can do the same. Learning from consequences, when not given a food pellet, pigeons have a remarkable ability to correct their errors. Similarity function is also at play for pigeons, by using their ability to find resemblance between two objects.
+“With just those two mechanisms alone, you can define a neural network or an artificial intelligent machine to basically solve these categorization problems,” said Turner. “It stands to reason that the mechanisms that are present in the AI are also present in the pigeon.”
+The researchers now aim to collaborate with scientists who study pigeons and their brains. They are hoping that these findings can have practical applications in better understanding human brain damage.
+“Maybe we can get some further insight into what is going on in that little bird brain,” said Wasserman. “It’s a damn good brain – it may be small in size, but they pack a punch when it comes to the capacity to learn.”
+No pigeons were harmed in the course of the study.
